@@ -1,0 +1,79 @@
+{
+  "doc_id": "ui",
+  "source": "UI美术参考.docx",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "UI参考"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "编辑器资源"
+    },
+    {
+      "type": "image",
+      "src": "img_0001.jpg"
+    },
+    {
+      "type": "image",
+      "src": "img_0002.jpg"
+    },
+    {
+      "type": "image",
+      "src": "img_0003.jpg"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "社区模组教程"
+    },
+    {
+      "type": "para",
+      "text": "跑酷买量地图商业化制作教程（外部）"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "常用AI作图网站;"
+    },
+    {
+      "type": "para",
+      "text": "chat-gpt-image2https://chatgpt.com/:每天限制生成五张（免费额度）"
+    },
+    {
+      "type": "para",
+      "text": "Gemini：nano-bananaGoogle Gemini：每天限制生成8-10张（免费额度）"
+    },
+    {
+      "type": "para",
+      "text": "豆包：豆包 - 字节跳动旗下 AI 智能助手额度较多可大量生图"
+    },
+    {
+      "type": "para",
+      "text": "建议：使用gpt和geminni出ui概念图，细节调整使用豆包"
+    },
+    {
+      "type": "para",
+      "text": "参考图可以直接用模板图进行参考；"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "常用提示词："
+    },
+    {
+      "type": "para",
+      "text": "根据图1地图场景风格结合图2参考图生成xxx功能UI。"
+    },
+    {
+      "type": "para",
+      "text": "ui/翅膀需要附带xxx元素。"
+    },
+    {
+      "type": "para",
+      "text": "ui字体居中展示；"
+    }
+  ]
+}

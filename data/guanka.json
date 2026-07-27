@@ -1,0 +1,658 @@
+{
+  "doc_id": "guanka",
+  "source": "关卡玩法参考.docx",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "关卡参考"
+    },
+    {
+      "type": "table",
+      "md": "| 调优重点<br>新手引导-loading图<br>大厅搭建-入口引导/商业化布置<br>关卡难度-前五分钟极易，逐渐升高难度<br>关卡美术-参考原版/元梦可爱风，适当添加女生生活用品元素（口红，粉底）<br>玩法参考：换装&存档点&关卡进度条&实时鼓励<br><br>通过左侧的导航栏可以选择相关的参考进行查看包括：<br>新手引导-loading图制作<br>大厅搭建<br>关卡难度<br>关卡美术<br>玩法参考<br>    1.存档<br>     2.换装<br>     3.关卡进度条<br>     4.失败/鼓励提示 |\n| --- |\n"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. 新手引导"
+    },
+    {
+      "type": "para",
+      "text": "添加新手引导介绍游戏换装玩法-loading图形式；"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "loading图制作方法："
+    },
+    {
+      "type": "para",
+      "text": "ai做图：给到玩法流程和场景参考图"
+    },
+    {
+      "type": "para",
+      "text": "1.根据参考图片在ai对话框输入提示词：帮我制作一张游戏loading图，我地图的玩法是1xxxx，2xxxx，3.xxxxx。请根据图1的场景，参考图2的形式最作图，比例16：9；"
+    },
+    {
+      "type": "para",
+      "text": "图1为自己地图场景，图2为下面的参考图"
+    },
+    {
+      "type": "image",
+      "src": "img_0001.jpg"
+    },
+    {
+      "type": "para",
+      "text": "2.制作好参考图后在端内上传，如果没有入口可以联系管家申请权限；"
+    },
+    {
+      "type": "image",
+      "src": "img_0002.jpg"
+    },
+    {
+      "type": "para",
+      "text": "3.根据手机尺寸调整图片显示大小，如果画幅太大需要进行扩图；"
+    },
+    {
+      "type": "para",
+      "text": "扩图软件：醒图"
+    },
+    {
+      "type": "para",
+      "text": "网站：AI扩图工具，免费智能扩展图片与背景 | insMind"
+    },
+    {
+      "type": "table",
+      "md": "| 原图 | 扩图 |\n| --- | --- |\n|  |  |\n|  |  |\n"
+    },
+    {
+      "type": "image",
+      "src": "img_0003.jpg"
+    },
+    {
+      "type": "image",
+      "src": "img_0004.jpg"
+    },
+    {
+      "type": "para",
+      "text": "扩图软件：醒图"
+    },
+    {
+      "type": "para",
+      "text": "网站：AI扩图工具，免费智能扩展图片与背景 | insMind"
+    },
+    {
+      "type": "para",
+      "text": "ai网站：豆包 - 字节跳动旗下 AI 智能助手"
+    },
+    {
+      "type": "para",
+      "text": "ChatGPT: Chat, Work, Create & Code with AI"
+    },
+    {
+      "type": "para",
+      "text": "https://gemini.google.com/"
+    },
+    {
+      "type": "para",
+      "text": "需要注意使用ai网站后，有些会带有水印需要进行去水印处理"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2.大厅搭建-入口引导/商业化布置"
+    },
+    {
+      "type": "para",
+      "text": "整体搭建参考：20260715-0405-06.3981803.mp4"
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "入口引导："
+    },
+    {
+      "type": "para",
+      "text": "开局出生点方向需要正对关卡"
+    },
+    {
+      "type": "para",
+      "text": "同时开局需要摆放第一个换装点"
+    },
+    {
+      "type": "image",
+      "src": "img_0005.jpg"
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "商业化布置："
+    },
+    {
+      "type": "para",
+      "text": "大厅还有道具展示、排行榜展示、以及最佳服饰展示，道具可以是通关道具or整蛊道具（比如让其他玩家屏幕跳脸图标）"
+    },
+    {
+      "type": "para",
+      "text": "两侧的商品位置往中间靠拢，vip付费商品可以摆在更显眼位置，可参考布局"
+    },
+    {
+      "type": "image",
+      "src": "img_0006.jpg"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "3.关卡难度"
+    },
+    {
+      "type": "para",
+      "text": "前五分钟流程极易，逐渐升高难度"
+    },
+    {
+      "type": "para",
+      "text": "可以做适当变化，添加些简单机关：跳床或传送带避免单调"
+    },
+    {
+      "type": "para",
+      "text": "难度参考："
+    },
+    {
+      "type": "table",
+      "md": "|  |  |  |\n| --- | --- | --- |\n|  |  |  |\n|  |  |  |\n"
+    },
+    {
+      "type": "image",
+      "src": "img_0007.jpg"
+    },
+    {
+      "type": "image",
+      "src": "img_0008.jpg"
+    },
+    {
+      "type": "image",
+      "src": "img_0009.jpg"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "4.关卡美术"
+    },
+    {
+      "type": "para",
+      "text": "可以添加一些女生的日用品作为关卡搭建元素，例如口红或者粉底，参考原版"
+    },
+    {
+      "type": "para",
+      "text": "整体风格：女生向/元梦可爱风"
+    },
+    {
+      "type": "table",
+      "md": "| 衣服 | 口红 | 粉底盒 |\n| --- | --- | --- |\n|  |  |  |\n"
+    },
+    {
+      "type": "image",
+      "src": "img_0010.jpg"
+    },
+    {
+      "type": "image",
+      "src": "img_0011.jpg"
+    },
+    {
+      "type": "image",
+      "src": "img_0012.jpg"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "5.玩法参考"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5.1中退存档"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "玩法说明："
+    },
+    {
+      "type": "para",
+      "text": "为关卡添加退出存档，玩家二次进入可以选择回到大厅或者从上次退出位置继续；"
+    },
+    {
+      "type": "para",
+      "text": "在社区搜索对应的扣叮和ui添加绑定即可；"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "教程："
+    },
+    {
+      "type": "para",
+      "text": "在扣叮模板中搜索长跑酷存档进行添加；"
+    },
+    {
+      "type": "para",
+      "text": "在界面资源搜索中退存档进行添加；"
+    },
+    {
+      "type": "para",
+      "text": "根据注释进行ui绑定"
+    },
+    {
+      "type": "para",
+      "text": "扣叮："
+    },
+    {
+      "type": "image",
+      "src": "img_0013.jpg"
+    },
+    {
+      "type": "para",
+      "text": "UI:"
+    },
+    {
+      "type": "image",
+      "src": "img_0014.jpg"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5.2过程存档（自由选择存档形式，但一定要做）："
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "vip存档区"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "玩法说明："
+    },
+    {
+      "type": "para",
+      "text": "仅限VIP玩家存档，小程序玩家可以观看广告体验一次或者付费买断"
+    },
+    {
+      "type": "image",
+      "src": "img_0015.jpg"
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "自定义存档"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "玩法说明："
+    },
+    {
+      "type": "para",
+      "text": "玩家可以在跑酷过程中任意位置放置存档；"
+    },
+    {
+      "type": "para",
+      "text": "玩家跌落5次免费赠送1次存档；"
+    },
+    {
+      "type": "para",
+      "text": "存档次数可以通过购买和观看广告获得；"
+    },
+    {
+      "type": "image",
+      "src": "img_0016.jpg"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "教程："
+    },
+    {
+      "type": "para",
+      "text": "在扣叮模板中搜索付费自定义存档/二次进入读取付费存档进行添加；"
+    },
+    {
+      "type": "para",
+      "text": "在界面资源搜索付费存档/中退存档进行添加；"
+    },
+    {
+      "type": "para",
+      "text": "根据注释进行ui绑定"
+    },
+    {
+      "type": "para",
+      "text": "扣叮参考："
+    },
+    {
+      "type": "image",
+      "src": "img_0017.jpg"
+    },
+    {
+      "type": "image",
+      "src": "img_0018.jpg"
+    },
+    {
+      "type": "para",
+      "text": "UI参考"
+    },
+    {
+      "type": "image",
+      "src": "img_0019.jpg"
+    },
+    {
+      "type": "image",
+      "src": "img_0020.jpg"
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "进度盒存档"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "玩法说明："
+    },
+    {
+      "type": "para",
+      "text": "需要设置刷新对象仅为触发者"
+    },
+    {
+      "type": "image",
+      "src": "img_0021.jpg"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5.3换装玩法"
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "整体布局参考："
+    },
+    {
+      "type": "para",
+      "text": "每一关选择为玩家添加4-5个选项，需要醒目并给玩家介绍选择内容"
+    },
+    {
+      "type": "image",
+      "src": "img_0022.jpg"
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "肤色制作"
+    },
+    {
+      "type": "para",
+      "text": "玩家进入触发盒可以进行肤色替换"
+    },
+    {
+      "type": "image",
+      "src": "img_0023.jpg"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "玩法说明："
+    },
+    {
+      "type": "para",
+      "text": "使用不同的星宝初始皮肤来做；"
+    },
+    {
+      "type": "para",
+      "text": "进入触发盒替换相应的星宝形象；"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "教程："
+    },
+    {
+      "type": "image",
+      "src": "img_0024.jpg"
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "表情制作"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "玩法说明："
+    },
+    {
+      "type": "para",
+      "text": "玩家进入触发盒可以进行表情替换"
+    },
+    {
+      "type": "image",
+      "src": "img_0025.jpg"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "教程："
+    },
+    {
+      "type": "para",
+      "text": "使用自制装备或星宝衣架来做。需要注意的是使用星宝衣架需要额外添加一层替换初始皮肤的扣叮；"
+    },
+    {
+      "type": "image",
+      "src": "img_0026.jpg"
+    },
+    {
+      "type": "para",
+      "text": "衣架需要添加一层还原逻辑，不然多次替换后初始模型会消失！"
+    },
+    {
+      "type": "image",
+      "src": "img_0027.jpg"
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "皮肤制作"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "教程："
+    },
+    {
+      "type": "para",
+      "text": "使用自制装备来做；"
+    },
+    {
+      "type": "para",
+      "text": "在元件栏搜索自制装备，使用自制装备附加皮肤元件"
+    },
+    {
+      "type": "para",
+      "text": "根据不同的部位可以自定义不同的装备类型（翅膀，头发，衣服。。。。）"
+    },
+    {
+      "type": "image",
+      "src": "img_0028.jpg"
+    },
+    {
+      "type": "image",
+      "src": "img_0029.jpg"
+    },
+    {
+      "type": "para",
+      "text": "制作皮肤，绑定教程：人物COS服 | 投稿活动 - 小红书"
+    },
+    {
+      "type": "para",
+      "text": "制作翅膀，绑定教程：翅膀制作"
+    },
+    {
+      "type": "para",
+      "text": "制作头套，绑定教程：小动物头套制作"
+    },
+    {
+      "type": "para",
+      "text": "注意关闭原始碰撞和自身投影，遮挡类型设置为无"
+    },
+    {
+      "type": "para",
+      "text": "其他扣叮参考："
+    },
+    {
+      "type": "para",
+      "text": "发型切换"
+    },
+    {
+      "type": "image",
+      "src": "img_0030.jpg"
+    },
+    {
+      "type": "para",
+      "text": "vip翅膀"
+    },
+    {
+      "type": "image",
+      "src": "img_0031.jpg"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5.4关卡进度条"
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "进度条+阶段奖励："
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "玩法说明："
+    },
+    {
+      "type": "para",
+      "text": "增加进度条，在打卡点/某些阶段，达到一定进度可获得奖励（道具/皮肤/称号）"
+    },
+    {
+      "type": "image",
+      "src": "img_0032.jpg"
+    },
+    {
+      "type": "para",
+      "text": "注意进度奖励对应的关卡可以设置在较难关卡前，可以给玩家一点通关助力；"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "教程："
+    },
+    {
+      "type": "para",
+      "text": "在扣叮模板中搜索进度奖励进行添加；"
+    },
+    {
+      "type": "para",
+      "text": "在界面资源搜索奖励进度条进行添加；"
+    },
+    {
+      "type": "para",
+      "text": "对ui图片底图进行修改；"
+    },
+    {
+      "type": "para",
+      "text": "根据注释进行ui绑定"
+    },
+    {
+      "type": "para",
+      "text": "扣叮参考："
+    },
+    {
+      "type": "image",
+      "src": "img_0033.jpg"
+    },
+    {
+      "type": "para",
+      "text": "UI参考："
+    },
+    {
+      "type": "image",
+      "src": "img_0034.jpg"
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "玩家实时排名进度"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "玩法说明："
+    },
+    {
+      "type": "para",
+      "text": "可以实时显示玩家的攀爬进度"
+    },
+    {
+      "type": "image",
+      "src": "img_0035.jpg"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "教程："
+    },
+    {
+      "type": "para",
+      "text": "https://www.xiaohongshu.com/discovery/item/6a2fea23000000002103eded?source=webshare&xhsshare=pc_web&xsec_token=ABd34-Oc19U3nZeawcoxQl48ZkSmJyKzofIwQs5dRaLpE=&xsec_source=pc_share"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5.5失败/成功鼓励"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "玩法说明："
+    },
+    {
+      "type": "para",
+      "text": "在玩家死亡次数过多时，弹出屏幕提示并给玩家发送一定奖励：道具or跳关：例如：死亡次数>3次屏幕弹出”小小挫折 这把一定拿捏“ “送你一个小道具，加油你可以的”并给玩家一份云朵道具；"
+    },
+    {
+      "type": "para",
+      "text": "或者当玩家到达一定进度后弹出鼓励提示：“哇哦 你也太强了吧！这速度击败全服80%玩家”"
+    },
+    {
+      "type": "image",
+      "src": "img_0036.jpg"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "教程："
+    },
+    {
+      "type": "para",
+      "text": "在扣叮模板中搜索死亡鼓励进行添加；"
+    },
+    {
+      "type": "para",
+      "text": "根据注释对对应的关卡进度盒/触发盒进行绑定"
+    },
+    {
+      "type": "image",
+      "src": "img_0037.jpg"
+    }
+  ]
+}

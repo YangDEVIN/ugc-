@@ -1,0 +1,21 @@
+{
+  "guides": [
+    {
+      "id": "changezhuang",
+      "title": "变装跑酷指南",
+      "docs": [
+        { "id": "shuoming", "title": "文档说明", "file": "data/shuoming.json", "imgBase": "assets/img/changezhuang/shuoming" },
+        { "id": "guanka", "title": "关卡玩法参考", "file": "data/guanka.json", "imgBase": "assets/img/changezhuang/guanka" },
+        { "id": "shangyehua", "title": "商业化参考", "file": "data/shangyehua.json", "imgBase": "assets/img/changezhuang/shangyehua" },
+        { "id": "ui", "title": "UI美术参考", "file": "data/ui.json", "imgBase": "assets/img/changezhuang/ui" }
+      ]
+    },
+    {
+      "id": "mailiang",
+      "title": "买量跑酷商业化制作指南",
+      "docs": [
+        { "id": "mailiang", "title": "跑酷买量地图商业化制作教程（外部）", "file": "data/mailiang.json", "imgBase": "assets/img/mailiang/tutorial" }
+      ]
+    }
+  ]
+}

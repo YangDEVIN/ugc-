@@ -1,0 +1,552 @@
+{
+  "doc_id": "shangyehua",
+  "source": "商业化参考.docx",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "商业化参考"
+    },
+    {
+      "type": "table",
+      "md": "| 通过左侧的导航栏可以选择相关的参考进行查看包括<br>道具类型<br> 二段跳技能（建议制作）<br> 付费跳关（必做）<br> 整蛊道具（建议制作）<br> 辅助道具（必做）<br>跳过服装<br>VIP类型<br>vip付费存档点<br>vip播报<br>vip特殊皮肤<br>皮肤类型<br>皮肤商店（必做）<br>翅膀商店（必做）<br>开局三选一<br>皮肤图鉴<br>其他参考：<br>UGC地图关卡、商业化制作参考<br>跑酷变装加分项教程 |\n| --- |\n"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "道具类型"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "二段跳技能"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "功能说明："
+    },
+    {
+      "type": "para",
+      "text": "玩家可以付费/观看广告解锁 二段跳技能"
+    },
+    {
+      "type": "para",
+      "text": "定价：5星钻/观看广告15s体验一次"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "教程："
+    },
+    {
+      "type": "para",
+      "text": "在扣叮模板中搜索付费二段跳进行添加；"
+    },
+    {
+      "type": "para",
+      "text": "需要自制一个付费按钮；"
+    },
+    {
+      "type": "para",
+      "text": "根据注释进行ui绑定"
+    },
+    {
+      "type": "para",
+      "text": "UI："
+    },
+    {
+      "type": "para",
+      "text": "需要制作一个付费技能ui：可以参考："
+    },
+    {
+      "type": "image",
+      "src": "img_0001.jpg"
+    },
+    {
+      "type": "para",
+      "text": "扣叮模组："
+    },
+    {
+      "type": "image",
+      "src": "img_0002.jpg"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "付费跳关"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "功能说明："
+    },
+    {
+      "type": "para",
+      "text": "玩家可以付费/观看广告进行跳关"
+    },
+    {
+      "type": "para",
+      "text": "定价建议：6-12星钻跳关一次/观看广告30s使用一次"
+    },
+    {
+      "type": "para",
+      "text": "功能实现模组："
+    },
+    {
+      "type": "image",
+      "src": "img_0003.jpg"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "教程："
+    },
+    {
+      "type": "para",
+      "text": "https://www.xiaohongshu.com/user/profile/6514f5290000000002010a6d/69bd1a41000000001d01ea97?xsec_token=ABawCJ0vqjbisozgSKwzf47ALGYTX9vGA1_BHh28-GE38=&xsec_source=pc_user"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "整蛊道具"
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "全员变身道具"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "功能说明："
+    },
+    {
+      "type": "para",
+      "text": "1.设置付费特殊道具，购买/观看广告后可以全员变身并且全图通报(第一次设置为免费）"
+    },
+    {
+      "type": "image",
+      "src": "img_0004.jpg"
+    },
+    {
+      "type": "para",
+      "text": "2. 定价：6~12星钻/30s广告一次"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "教程："
+    },
+    {
+      "type": "para",
+      "text": "整体模板图片可以在社区界面资源搜索整蛊添加："
+    },
+    {
+      "type": "para",
+      "text": "在扣叮社区资源搜索整蛊进行添加"
+    },
+    {
+      "type": "para",
+      "text": "制作一个变身模型；"
+    },
+    {
+      "type": "para",
+      "text": "根据注释内容进行绑定"
+    },
+    {
+      "type": "image",
+      "src": "img_0005.jpg"
+    },
+    {
+      "type": "para",
+      "text": "UI："
+    },
+    {
+      "type": "para",
+      "text": "入口ui"
+    },
+    {
+      "type": "image",
+      "src": "img_0006.jpg"
+    },
+    {
+      "type": "para",
+      "text": "提示ui"
+    },
+    {
+      "type": "image",
+      "src": "img_0007.jpg"
+    },
+    {
+      "type": "para",
+      "text": "变身模型制作："
+    },
+    {
+      "type": "para",
+      "text": "在元件栏搜索AI模型，输入想要的模型提示词；"
+    },
+    {
+      "type": "image",
+      "src": "img_0008.jpg"
+    },
+    {
+      "type": "para",
+      "text": "拖出一个星宝生物，打开只显示元件。将生成好的模型进行附加。注意关闭遮挡，投影，和碰撞"
+    },
+    {
+      "type": "image",
+      "src": "img_0009.jpg"
+    },
+    {
+      "type": "para",
+      "text": "扣叮："
+    },
+    {
+      "type": "para",
+      "text": "在扣叮社区资源搜索整蛊进行添加"
+    },
+    {
+      "type": "image",
+      "src": "img_0010.jpg"
+    },
+    {
+      "type": "para",
+      "text": "武器道具"
+    },
+    {
+      "type": "para",
+      "text": "1.玩家可以在大厅或通过商店购买巴掌道具，可以对其他玩家实现击飞效果"
+    },
+    {
+      "type": "image",
+      "src": "img_0011.jpg"
+    },
+    {
+      "type": "para",
+      "text": "2.定价：60-90星钻/30s广告体验一局；"
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "常驻道具"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "功能说明："
+    },
+    {
+      "type": "para",
+      "text": "场景中放置：付费/广告道具区域"
+    },
+    {
+      "type": "para",
+      "text": "在中等、难度较高的关卡平台一侧，放置道具，看广告/直接购买"
+    },
+    {
+      "type": "para",
+      "text": "道具类型可以为：云朵/火箭/飞牌"
+    },
+    {
+      "type": "para",
+      "text": "定价：1-5星钻/观看广告15s一次"
+    },
+    {
+      "type": "image",
+      "src": "img_0012.jpg"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "教程："
+    },
+    {
+      "type": "para",
+      "text": "展台制作"
+    },
+    {
+      "type": "para",
+      "text": "首先我们需要在地图关卡摆放道具生成点"
+    },
+    {
+      "type": "image",
+      "src": "img_0013.jpg"
+    },
+    {
+      "type": "para",
+      "text": "这里道具仅作展示，所以需要添加空气墙，让玩家无法拾取"
+    },
+    {
+      "type": "image",
+      "src": "img_0014.jpg"
+    },
+    {
+      "type": "para",
+      "text": "添加一个触发盒覆盖道具生成器，用来配置触发逻辑"
+    },
+    {
+      "type": "image",
+      "src": "img_0015.jpg"
+    },
+    {
+      "type": "para",
+      "text": "扣叮"
+    },
+    {
+      "type": "para",
+      "text": "添加扣丁模板，绑定逻辑，当玩家进入对应触发盒后需要观看广告获得道具；"
+    },
+    {
+      "type": "image",
+      "src": "img_0016.jpg"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "跳过服装"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "功能说明："
+    },
+    {
+      "type": "para",
+      "text": "玩家在选择服装时可以选择跳过不满意的服装"
+    },
+    {
+      "type": "para",
+      "text": "付费3-5星钻一次/观看广告15s"
+    },
+    {
+      "type": "image",
+      "src": "img_0017.jpg"
+    },
+    {
+      "type": "image",
+      "src": "img_0018.jpg"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "vip类型"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "vip付费存档"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "玩法说明："
+    },
+    {
+      "type": "para",
+      "text": "场景中放置vip存档点，需要解锁vip才能进入"
+    },
+    {
+      "type": "para",
+      "text": "定价：68-99星钻/观看广告30s解锁单局体验"
+    },
+    {
+      "type": "image",
+      "src": "img_0019.jpg"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "vip播报"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "玩法说明："
+    },
+    {
+      "type": "para",
+      "text": "玩家进入游戏如果是vip玩家全场进行播报"
+    },
+    {
+      "type": "para",
+      "text": "定价：68-99星钻/观看广告30s解锁单局体验"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "教程："
+    },
+    {
+      "type": "para",
+      "text": "在扣叮社区资源搜索储存会员进行添加"
+    },
+    {
+      "type": "image",
+      "src": "img_0020.jpg"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "vip特殊皮肤"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "玩法说明："
+    },
+    {
+      "type": "para",
+      "text": "玩家进入游戏如果是vip玩家可以直接获得全套皮肤"
+    },
+    {
+      "type": "para",
+      "text": "定价：68-99星钻/观看广告30s解锁单局体验"
+    },
+    {
+      "type": "image",
+      "src": "img_0021.jpg"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "皮肤类型"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "皮肤/翅膀商店"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "玩法说明："
+    },
+    {
+      "type": "para",
+      "text": "小程序玩家可以通过观看获得单局体验"
+    },
+    {
+      "type": "para",
+      "text": "皮肤效果和名称需要在商店内进行展示；"
+    },
+    {
+      "type": "para",
+      "text": "例如：橘子猫，每次死亡获得云朵道具；"
+    },
+    {
+      "type": "para",
+      "text": "定价：30-60星钻/观看广告30s单局体验；"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "教程："
+    },
+    {
+      "type": "para",
+      "text": "整体模板图片可以在社区界面资源搜索皮肤商店/翅膀商店添加："
+    },
+    {
+      "type": "para",
+      "text": "在扣叮社区资源搜索皮肤商店/皮肤商店进行添加"
+    },
+    {
+      "type": "para",
+      "text": "使用自制装备制作对应的皮肤/翅膀；"
+    },
+    {
+      "type": "para",
+      "text": "根据注释内容进行绑定"
+    },
+    {
+      "type": "image",
+      "src": "img_0022.jpg"
+    },
+    {
+      "type": "image",
+      "src": "img_0023.jpg"
+    },
+    {
+      "type": "image",
+      "src": "img_0024.jpg"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "开局三选一"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "玩法说明："
+    },
+    {
+      "type": "para",
+      "text": "开局直接弹窗：选皮肤/技能页面，1-2个免费，2个广告皮肤"
+    },
+    {
+      "type": "para",
+      "text": "小程序玩家观看30s获得单局体验/app玩家需要付费解锁"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "教程："
+    },
+    {
+      "type": "para",
+      "text": "整体模板图片可以在社区界面资源搜索三选一添加："
+    },
+    {
+      "type": "para",
+      "text": "在扣叮社区资源搜索三选一进行添加"
+    },
+    {
+      "type": "para",
+      "text": "使用自制装备制作对应的皮肤；"
+    },
+    {
+      "type": "para",
+      "text": "根据注释内容进行绑定"
+    },
+    {
+      "type": "image",
+      "src": "img_0025.jpg"
+    },
+    {
+      "type": "image",
+      "src": "img_0026.jpg"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "皮肤图鉴"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "玩法说明："
+    },
+    {
+      "type": "para",
+      "text": "添加加一个皮肤图鉴/商店功能，玩家爬塔过程中可以免费体验获得的服装，但是永久获得或者自由组合搭配需要付费解锁；"
+    },
+    {
+      "type": "para",
+      "text": "添加小程序专属皮肤可以观看广告永久解锁30s一次，其他皮肤5-30星钻购买"
+    },
+    {
+      "type": "para",
+      "text": "需要做大量资源填充根据地图情况和能力进行考虑"
+    },
+    {
+      "type": "image",
+      "src": "img_0027.jpg"
+    },
+    {
+      "type": "image",
+      "src": "img_0028.jpg"
+    }
+  ]
+}

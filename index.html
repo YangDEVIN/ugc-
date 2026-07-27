@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>跑酷制作教程网站</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<div class="app">
+
+  <header class="topbar">
+    <button class="menu-btn" id="menuBtn" aria-label="打开目录">
+      <span></span><span></span><span></span>
+    </button>
+    <div class="brand" id="brandHome">跑酷制作教程</div>
+    <div class="tabs" id="tabs"></div>
+  </header>
+
+  <div class="body-wrap" id="bodyWrap">
+    <div class="sidebar-mask" id="sidebarMask"></div>
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar-header">
+        <span id="sidebarTitle">目录</span>
+        <button class="close-btn" id="closeBtn">✕</button>
+      </div>
+      <nav class="toc" id="toc"></nav>
+    </aside>
+
+    <main class="content" id="content">
+      <!-- 首页介绍视图 -->
+      <section class="home-view" id="homeView">
+        <div class="home-hero">
+          <div class="home-hero-badge">教程中心</div>
+          <h1 class="home-title">跑酷制作教程网站</h1>
+          <p class="home-subtitle">汇集跑酷制作指南与商业化教程，持续更新中</p>
+        </div>
+
+        <div class="home-cards" id="homeCards"></div>
+
+        <div class="home-tips">
+          <h3>使用说明</h3>
+          <ul>
+          <li>点击顶部页签或下方卡片，进入对应的教程指南</li>
+            <li>左侧为该指南的目录导航，文档模块、一级/二级标题均可点击折叠，点击文字可快速跳转</li>
+            <li>目录项右侧出现红点表示该模块/章节有更新内容</li>
+            <li>移动端点击左上角菜单按钮 <span class="tip-icon">☰</span> 打开目录</li>
+            <li>点击图片可放大查看细节</li>
+          </ul>
+        </div>
+      </section>
+
+      <div class="loading" id="loading" style="display:none;">正在加载内容...</div>
+    </main>
+  </div>
+
+  <button class="backtop" id="backTop" title="返回顶部">↑</button>
+</div>
+
+<script src="assets/app.js"></script>
+</body>
+</html>

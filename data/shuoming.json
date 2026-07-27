@@ -1,0 +1,86 @@
+{
+  "doc_id": "shuoming",
+  "source": "文档说明.docx",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "变装跑酷通用调优指南（每周四持续更新）"
+    },
+    {
+      "type": "table",
+      "md": "| 各位造梦师好：<br>本文档旨在帮助大家熟悉变装跑酷地图的基本知识，搭建一张完整优秀的跑酷地图应该包含哪些元素<br>1.简明的新手引导<br>2.合理的关卡难度<br>3.优秀的美术包装<br>4.多样的玩法拓展<br><br>通过左下方页面按钮的导航栏可以选择相关的参考进行查看包括：<br>关卡玩法参考;<br>商业化参考；<br>UI美术参考；<br><br>手机使用指南:<br>各位造梦师可以在手机上点击更多页面浏览目录和参考内容；<br><br>点击左侧的页签可以切换对应的内容进行浏览，点击目录可以浏览详细信息 |\n| --- |\n"
+    },
+    {
+      "type": "image",
+      "src": "img_0001.jpg"
+    },
+    {
+      "type": "image",
+      "src": "img_0002.jpg"
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "参考地图："
+    },
+    {
+      "type": "para",
+      "text": "星世界：女王变装跑酷塔"
+    },
+    {
+      "type": "image",
+      "src": "img_0003.jpg"
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "社区扣叮添加流程"
+    },
+    {
+      "type": "para",
+      "text": "打开扣叮选择添加模板"
+    },
+    {
+      "type": "image",
+      "src": "img_0004.jpg"
+    },
+    {
+      "type": "para",
+      "text": "在社区模板中搜索对应的模板名称即可选择添加"
+    },
+    {
+      "type": "image",
+      "src": "img_0005.jpg"
+    },
+    {
+      "type": "image",
+      "src": "img_0006.jpg"
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "社区UI模组添加流程"
+    },
+    {
+      "type": "para",
+      "text": "打开社区资源界面；"
+    },
+    {
+      "type": "image",
+      "src": "img_0007.jpg"
+    },
+    {
+      "type": "para",
+      "text": "选择界面资源，在其中搜索对应的UI模板名称即可；"
+    },
+    {
+      "type": "image",
+      "src": "img_0008.jpg"
+    },
+    {
+      "type": "image",
+      "src": "img_0009.jpg"
+    }
+  ]
+}
